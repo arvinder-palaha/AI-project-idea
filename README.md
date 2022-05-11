@@ -2,9 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
-
-Plane Boarding AI Scheduler
+# Plane Boarding AI Scheduler
 
 ## Summary
 
