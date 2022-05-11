@@ -4,6 +4,8 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Plane Boarding AI Scheduler
 
+Building AI course project
+
 ## Summary
 
 This project would provide an improved schedule for boarding an aircraft, minimising the time to board while keeping groups and families together.
